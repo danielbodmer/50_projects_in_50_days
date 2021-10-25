@@ -1,2 +1,2 @@
-# 50_projects_in_50_days
+# 50 projects in 50 days
 Udemy HTML/CSS/JS course
